@@ -1,0 +1,5 @@
+https://doc.openerp.com/v7.0/contents/
+
+https://doc.openerp.com/v6.1/developer/13_build_and_deploy/
+
+https://doc.openerp.com/v7.0/install/linux/
